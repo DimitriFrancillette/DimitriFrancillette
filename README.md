@@ -8,21 +8,13 @@ Je me reconvertis dans le développement web après avoir suivi des formations i
 - 🚀 *Je suis actuellement à la recherche de ma première opportunité en tant que **développeur web***, où je pourrais contribuer à des projets stimulants, collaborer avec des équipes expérimentées, et continuer à développer mes compétences techniques.<br><br>
 
 ### ⚡ Compétences :<br>
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
-
-  ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
-
-  ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,tailwind,nodejs,express,mongodb,git&perline=6)](https://skillicons.dev)
 <br>
-
+<br>
 ### 🌱 En cours d'apprentissage :<br>
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+<br>
+<br>
 
 - 👯 Toujours curieux et avide d'apprendre davantage ! N'hésitez pas à consulter mes dépôts et projets, et à me contacter pour toute collaboration.<br><br>
 
@@ -45,21 +37,14 @@ I’m transitioning into web development after completing intensive training at 
 - 🚀 *I’m currently looking for my first opportunity as a **frontend web developer***, where I can contribute to exciting projects, collaborate with experienced teams, and further develop my technical abilities.<br><br>
 
 ### ⚡ Skills :<br>
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
-
-  ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
-
-  ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) &nbsp;&nbsp; 
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,tailwind,nodejs,express,mongodb,git&perline=6)](https://skillicons.dev)
+<br>
 <br>
 
 ### 🌱 Currently learning :<br>
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+<br>
+<br>
 
 - 👯 Always eager to learn and explore more! Feel free to check out my repositories and projects, and don’t hesitate to reach out for collaboration.<br><br>
 
